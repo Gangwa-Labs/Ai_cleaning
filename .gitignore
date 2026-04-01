@@ -1,0 +1,9 @@
+# Secret configuration
+config.h
+
+# Build artifacts
+build/
+*.o
+*.elf
+*.bin
+*.hex
