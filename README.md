@@ -2,7 +2,8 @@
 
 An ESP32 camera project that captures images of your room and uses AI vision to judge how clean it is. Runs on the **XIAO ESP32S3 Sense** with its onboard camera.
 
-![Room Judge AI](https://img.shields.io/badge/Platform-XIAO%20ESP32S3-blue) ![License](https://img.shields.io/badge/License-MIT-green)
+![Room Judge AI](https://img.shields.io/badge/Platform-XIAO%20ESP32S3-blue) ![License](https://img.shields.io/badge/License-MIT-green [![CopperPilot](https://img.shields.io/badge/CopperPilot-Project-b87333)](https://copperpilot.ai/)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=copperpilot)](https://copperpilot.ai/)
 
 ## What It Does
 
